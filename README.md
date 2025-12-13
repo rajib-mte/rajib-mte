@@ -13,7 +13,7 @@
 </p>
 
 🎓 **Studied B.Sc in Mechatronics Engineering** | World University of Bangladesh  
-🛠️ **Embedded Systems Developer** | Flutter developer | Competitive programmer | Robotics Enthusiast | Firmware Engineer  
+🛠️ **Embedded Systems Developer** | Competitive programmer | Robotics Enthusiast | Firmware Engineer  
 📍 Based in Dhaka, Bangladesh
 
 #My Project
