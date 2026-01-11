@@ -149,7 +149,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
-        src=""
+        src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
         width="48"
         height="48"
         alt="Learning"
@@ -158,30 +158,30 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
         width="48"
         height="48"
-        alt="javascript"
+        alt="Learning"
       />
-      <br />progress
+      <br />Learning
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
         width="48"
         height="48"
-        alt="javascript"
+        alt="Learning"
       />
-      <br />blank
+      <br />Learning
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=i"
+        src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
         width="48"
         height="48"
-        alt="javascript"
+        alt="Learning"
       />
-      <br />blank
+      <br />Learning
     </td>
   </tr>
   <tr>
