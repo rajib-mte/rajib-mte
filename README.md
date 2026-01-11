@@ -78,11 +78,13 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
   </a>
   <a href="https://www.youtube.com/@roboticswithrajib" target="_blank">
     <img
-      align="center"
       src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"
-      alt=""
+      alt="YouTube Channel"
       height="24"
       width="35"
+      style="transition: transform 0.2s;"
+      onmouseover="this.style.transform='scale(1.2)';"
+      onmouseout="this.style.transform='scale(1)';"
     />
   </a>
 </p>
