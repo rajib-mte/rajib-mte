@@ -292,6 +292,72 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       </a>
       <br />Learning
     </td>
+    <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
+    </td>
   </tr>
 </table>
 
