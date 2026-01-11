@@ -101,8 +101,8 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="https://github.com/rajib-mte/assembly-language-notes"
       />
-      <br /><span style = "list-style-type: none;">Assembly</span>
       </a>
+      <br />Assembly
     </td>
     <td align="center" width="96">
       <img
