@@ -104,6 +104,98 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+
+    <!--
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
         src="https://skillicons.dev/icons?i=ts"
         width="48"
         height="48"
@@ -182,7 +274,8 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         alt="jwt"
       />
       <br />Mongoose
-    </td>
+    </td> -->
+
   </tr>
   <tr>
     <td align="center" width="96">
