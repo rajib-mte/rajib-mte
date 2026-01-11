@@ -105,12 +105,14 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       <br />Assembly
     </td>
     <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=c"
-        width="48"
-        height="48"
-        alt="javascript"
-      />
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://skillicons.dev/icons?i=c"
+          width="48"
+          height="48"
+          alt="javascript"
+        />
+      </a>
       <br />C
     </td>
     <td align="center" width="96">
@@ -276,6 +278,18 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         alt="jwt"
       />
       <br />JWT
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+    <a href="https://github.com/rajib-mte/assembly-language-notes">
+      <img
+        src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+        width="48"
+        height="48"
+        alt="Learning"
+      />
+      <br />Learning
     </td>
   </tr>
 </table>
