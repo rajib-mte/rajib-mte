@@ -1,16 +1,16 @@
 <!-- [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajib-mte&show_icons=true&theme=algolia&count_private=true" alt="Rajib GitHub Stats" />](https://github.com/rajib-mte) -->
 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rajib-mte/)
+[![Instagram Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=instagram&logoColor=f5f7fe)]()
+[![Website Connect](https://img.shields.io/badge/%20-Website-black?color=222244&labelColor=000000&logo=hyperlink&logoColor=f5f7fe)]()
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mailto:rajibhasan.mte@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20I%20am%20Rajib%20Hasan!%20Nice%20to%20meet%20you&font=Fira%20Code&center=true&width=720&height=45&color=57cc99&vCenter=true&pause=1000&size=22"
     alt="Hello, I am Rajib Hasan"
   />
 </p>
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rajib-mte/)
-[![Instagram Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=instagram&logoColor=f5f7fe)]()
-[![Website Connect](https://img.shields.io/badge/%20-Website-black?color=222244&labelColor=000000&logo=hyperlink&logoColor=f5f7fe)]()
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mailto:rajibhasan.mte@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/19152494/128324719-b9bda13d-92dd-49f5-b866-8dd04b3f9d76.gif" alt="Animated Pinout" width="500" height="300">
