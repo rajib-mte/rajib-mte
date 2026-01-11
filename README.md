@@ -27,13 +27,6 @@
 🎓 **Studied B.Sc in Mechatronics Engineering** | World University of Bangladesh  
 🛠️ **Embedded Systems Developer** | Competitive programmer | Robotics Enthusiast | Firmware Engineer  
 📍 Based in Dhaka, Bangladesh
-
-#My Project
-![Stars](https://img.shields.io/github/stars/rajib-mte/repo?style=social)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-
----
-
 ...
 
 ## 🚀 About Me
@@ -140,4 +133,4 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ---
 
-> “Code is not just syntax, it’s the soul of a system.” – _Rajib Hasan_
+> “Code is not just syntax, it’s the soul of a system.” – _Rajib Hasan_ > ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
