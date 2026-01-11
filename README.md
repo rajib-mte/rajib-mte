@@ -280,15 +280,15 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <!-- <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=zahid-official&show_icons=true&theme=gotham&hide_border=true&rank_icon=github"
+        src="https://github-readme-stats.vercel.app/api?username=rajib-mte&show_icons=true&theme=gotham&hide_border=true&rank_icon=github"
         alt="GitHub Stats"
       />
-    </td>
+    </td> -->
     <td>
       <img
-        src="https://nirzak-streak-stats.vercel.app?user=zahid-official&theme=gotham&hide_border=true"
+        src="https://nirzak-streak-stats.vercel.app?user=rajib-mte&theme=gotham&hide_border=true"
         alt="GitHub Streak"
       />
     </td>
