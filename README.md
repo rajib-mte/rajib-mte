@@ -140,7 +140,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
-        src=""
+        src="https://img.icons8.com/?size=100&id=akG4VRhAoSii&format=png&color=000000"
         width="48"
         height="48"
         alt="Learning"
