@@ -76,7 +76,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       width="35"
     />
   </a>
-  <a href="https://www.youtube.com/@roboticswithrajib" target="blank">
+  <a href="https://www.youtube.com/@roboticswithrajib" target="_blank">
     <img
       align="center"
       src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"
