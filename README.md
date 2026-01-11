@@ -67,14 +67,15 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       height="29"
       width="40"
   /></a>
-  <a href="" target="blank"
-    ><img
+  <a href="" target="blank">
+  <img
       align="center"
       src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg"
       alt=""
       height="24"
       width="35"
-  /></a>
+    />
+  </a>
 </p>
 
 ---
