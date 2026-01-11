@@ -89,18 +89,224 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ---
 
-## 🧰 Tools & Technologies
+# Languages & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=js"
+        width="48"
+        height="48"
+        alt="javascript"
+      />
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=ts"
+        width="48"
+        height="48"
+        alt="typescript"
+      />
+      <br />TypeScript
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=react"
+        width="48"
+        height="48"
+        alt="react"
+      />
+      <br />React
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=redux"
+        width="48"
+        height="48"
+        alt="redux"
+      />
+      <br />Redux
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=nextjs"
+        width="48"
+        height="48"
+        alt="nextjs"
+      />
+      <br />Nextjs
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=nodejs"
+        width="48"
+        height="48"
+        alt="nodejs"
+      />
+      <br />Nodejs
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=express"
+        alt="JavaScript"
+        width="48"
+        height="48"
+      />
+      <br />Express
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=firebase"
+        width="48"
+        height="48"
+        alt="firebase"
+      />
+      <br />Firebase
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=mongodb"
+        width="48"
+        height="48"
+        alt="mongodb"
+      />
+      <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://mongoosejs.com/docs/images/mongoose.svg"
+        width="100%"
+        height="100%"
+        alt="jwt"
+      />
+      <br />Mongoose
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=postgres"
+        alt="postgres"
+        width="48"
+        height="48"
+      />
+      <br />Postgres
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=prisma"
+        width="48"
+        height="48"
+        alt="prisma"
+      />
+      <br />Prisma
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=redis"
+        width="48"
+        height="48"
+        alt="redis"
+      />
+      <br />Redis
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=tailwind"
+        width="48"
+        height="48"
+        alt="tailwind"
+      />
+      <br />Tailwind
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://i.imgur.com/4TLI18u.png"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br />Shadcn
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=postman"
+        width="48"
+        height="48"
+        alt="postman"
+      />
+      <br />Postman
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=git"
+        width="48"
+        height="48"
+        alt="git"
+      />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=github"
+        width="48"
+        height="48"
+        alt="github"
+      />
+      <br />Github
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://i.imgur.com/wWCtfWA.png"
+        width="54"
+        height="48"
+        alt="materialui"
+      />
+      <br />Zod
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://i.ibb.co.com/QJds110/icon14.png"
+        width="48"
+        height="48"
+        alt="jwt"
+      />
+      <br />JWT
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=zahid-official&show_icons=true&theme=gotham&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://nirzak-streak-stats.vercel.app?user=zahid-official&theme=gotham&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- ## 🧰 Tools & Technologies
 
 - Languages: `C`, `C++`, `Embedded C`, `Python`, `Dart`
 - MCUs: `STM32`, `ESP32`, `AVR`, `Arduino`
 - IDEs: `STM32CubeIDE`, `Keil`, `Arduino IDE`, `PlatformIO`
 - CAD/EDA: `Altium Designer`, `EasyEDA`, `Proteus`
 - Comm Protocols: `UART`, `SPI`, `I2C`, `Bluetooth`, `WiFi`
-- Others: `Notion`, `Git`, `Fiverr`, `YouTube`
+- Others: `Notion`, `Git`, `Fiverr`, `YouTube` -->
 
 ---
 
-## 📊 GitHub Stats Summary
+<!-- ## 📊 GitHub Stats Summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajib-mte&theme=github_dark" />
@@ -117,7 +323,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
   </tr>
 </table>
-</div>
+</div> -->
 
 > Above stats generated with: [tipsy/profile-summary-for-github](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
