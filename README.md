@@ -8,12 +8,9 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mailto:rajibhasan.mte@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/19152494/128324719-b9bda13d-92dd-49f5-b866-8dd04b3f9d76.gif" alt="Animated Pinout" width="500" height="300">
-</p>
-<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com/?lines=A%20Dedicated%20Web%20Developer%20Focused%20on%20Web%20Applications.;Passionate%20about%20crafting%20quality%20projects.;Always%20learning%20trending%20technologies.&font=Fira%20Code&center=true&width=720&height=45&color=57cc99&vCenter=true&pause=1000&size=22"
+      src="https://readme-typing-svg.demolab.com/?lines=Turning%20Ideas%20into%20Smart%20Systems;Embedded%20Systems%20%7C%20Robotics%20%7C%20Mechatronics;Android%20App%20%26%20Web%20Application%20Developer;Where%20Hardware%20Meets%20Software&font=Fira%20Code&center=true&width=900&height=45&color=57cc99&vCenter=true&pause=1000&size=22"
     />
   </a>
 </p>
