@@ -404,37 +404,6 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ---
 
-<!-- ## 📊 GitHub Stats Summary
+> “Code is not just syntax, it’s the soul of a system.” – _Rajib Hasan_ >
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajib-mte&theme=github_dark" />
-  <table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajib-mte&theme=github_dark" width="270"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajib-mte&theme=github_dark" width="270"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajib-mte&theme=github_dark" width="270"/>
-    </td>
-  </tr>
-</table>
-</div> -->
-
-> Above stats generated with: [tipsy/profile-summary-for-github](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
----
-
-## 🌐 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rajib-mte/)
-- 👩‍🏫 [Facebook page](https://www.facebook.com/RoboticsWithRajib)
-- 📺 [YouTube Channel](https://youtube.com/@yourchannel)
-- ✨ [Fiverr Profile](https://www.fiverr.com/rajib_hasan)
-- 📧 rajibhasan.mte@gmail.com
-
----
-
-> “Code is not just syntax, it’s the soul of a system.” – _Rajib Hasan_ > ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
