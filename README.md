@@ -104,7 +104,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://skillicons.dev/icons?i=c"
         width="48"
         height="48"
         alt="javascript"
@@ -113,19 +113,19 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://skillicons.dev/icons?i=cpp"
         width="48"
         height="48"
-        alt="javascript"
+        alt="cpp"
       />
       <br />C++
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://skillicons.dev/icons?i=python"
         width="48"
         height="48"
-        alt="javascript"
+        alt="python"
       />
       <br />Python
     </td>
@@ -140,10 +140,10 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://skillicons.dev/icons?i=dart"
         width="48"
         height="48"
-        alt="javascript"
+        alt="dart"
       />
       <br />blank
     </td>
@@ -152,7 +152,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         src="https://skillicons.dev/icons?i=js"
         width="48"
         height="48"
-        alt="javascript"
+        alt="blank"
       />
       <br />blank
     </td>
