@@ -1,8 +1,8 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RajibHasan-MTE&show_icons=true&theme=algolia&count_private=true" alt="Jason's Github Stats"/>](https://github.com/rajibhasan-mte)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajib-mte&show_icons=true&theme=algolia&count_private=true" alt="Jason's Github Stats"/>](https://github.com/rajib-mte)
 
 # Hello, I am Rajib Hasan! Nice to meet you
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rajibhasan-mte/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rajib-mte/)
 [![Instagram Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=instagram&logoColor=f5f7fe)]()
 [![Website Connect](https://img.shields.io/badge/%20-Website-black?color=222244&labelColor=000000&logo=hyperlink&logoColor=f5f7fe)]()
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mailto:rajibhasan.mte@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
@@ -62,17 +62,17 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 ## 📊 GitHub Stats Summary
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajibHasan-MTE&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajib-mte&theme=github_dark" />
   <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajibHasan-MTE&theme=github_dark" width="270"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajib-mte&theme=github_dark" width="270"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajibHasan-MTE&theme=github_dark" width="270"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajib-mte&theme=github_dark" width="270"/>
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajibHasan-MTE&theme=github_dark" width="270"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajib-mte&theme=github_dark" width="270"/>
     </td>
   </tr>
 </table>
@@ -84,7 +84,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rajibhasan-mte/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajib-mte/)  
 - 👩‍🏫 [Facebook page](https://www.facebook.com/RoboticsWithRajib)  
 - 📺 [YouTube Channel](https://youtube.com/@yourchannel)
 - ✨ [Fiverr Profile](https://www.fiverr.com/rajib_hasan)  
