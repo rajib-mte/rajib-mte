@@ -98,7 +98,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000"
         width="48"
         height="48"
-        alt="assembly"
+        alt="https://github.com/rajib-mte/assembly-language-notes"
       />
       <br />Assembly
     </td>
