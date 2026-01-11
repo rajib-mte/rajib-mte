@@ -271,6 +271,33 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
   <tr>
     <td align="center" width="96">
       <img
+        src="https://skillicons.dev/icons?i=git"
+        width="48"
+        height="48"
+        alt="git"
+      />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=github"
+        width="48"
+        height="48"
+        alt="github"
+      />
+      <br />Github
+    </td>
+    <td align="center" width="96">
+      <img
+        src="https://skillicons.dev/icons?i=postman"
+        width="48"
+        height="48"
+        alt="postman"
+      />
+      <br />Postman
+    </td>
+    <td align="center" width="96">
+      <img
         src="https://skillicons.dev/icons?i=postgres"
         alt="postgres"
         width="48"
@@ -313,33 +340,6 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         alt="Figma"
       />
       <br />Shadcn
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=postman"
-        width="48"
-        height="48"
-        alt="postman"
-      />
-      <br />Postman
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=git"
-        width="48"
-        height="48"
-        alt="git"
-      />
-      <br />Git
-    </td>
-    <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=github"
-        width="48"
-        height="48"
-        alt="github"
-      />
-      <br />Github
     </td>
     <td align="center" width="96">
       <img
