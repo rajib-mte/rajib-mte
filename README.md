@@ -29,7 +29,7 @@
 📍 Based in Dhaka, Bangladesh
 
 #My Project
-![Stars](https://img.shields.io/github/stars/username/repo?style=social)
+![Stars](https://img.shields.io/github/stars/rajib-mte/repo?style=social)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
