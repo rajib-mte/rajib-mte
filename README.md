@@ -131,7 +131,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://skillicons.dev/icons?i=dart"
         width="48"
         height="48"
         alt="javascript"
@@ -140,21 +140,21 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=dart"
+        src=""
         width="48"
         height="48"
-        alt="dart"
+        alt="Learning"
       />
-      <br />blank
+      <br />Learning
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src=""
         width="48"
         height="48"
-        alt="blank"
+        alt="Learning"
       />
-      <br />blank
+      <br />Learning
     </td>
     <td align="center" width="96">
       <img
@@ -163,7 +163,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />blank
+      <br />progress
     </td>
     <td align="center" width="96">
       <img
