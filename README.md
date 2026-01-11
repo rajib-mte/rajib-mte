@@ -1,6 +1,11 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajib-mte&show_icons=true&theme=algolia&count_private=true" alt="Rajib GitHub Stats" />](https://github.com/rajib-mte)
+<!-- [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajib-mte&show_icons=true&theme=algolia&count_private=true" alt="Rajib GitHub Stats" />](https://github.com/rajib-mte) -->
 
-# Hello, I am Rajib Hasan! Nice to meet you
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?lines=Hello%2C%20I%20am%20Rajib%20Hasan!%20Nice%20to%20meet%20you&font=Fira%20Code&center=true&width=720&height=45&color=57cc99&vCenter=true&pause=1000&size=22"
+    alt="Hello, I am Rajib Hasan"
+  />
+</p>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rajib-mte/)
 [![Instagram Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=instagram&logoColor=f5f7fe)]()
