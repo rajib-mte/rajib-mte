@@ -305,7 +305,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       <br />STM32
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/rajib-mte/assembly-language-notes">
+      <a href="hhttps://avatars.githubusercontent.com/u/64278475?s=200&v=4">
         <img
           src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
           width="48"
@@ -318,7 +318,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     <td align="center" width="96">
       <a href="https://github.com/rajib-mte/assembly-language-notes">
         <img
-          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          src="https://res.cloudinary.com/di2vaxvhl/image/upload/v1547679898/Technical_Images_AP_ESP8266__1.jpg"
           width="48"
           height="48"
           alt="ESP8266"
