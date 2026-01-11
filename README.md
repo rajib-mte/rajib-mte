@@ -280,6 +280,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       <br />JWT
     </td>
   </tr>
+  <!-- Embedded system -->
   <tr>
     <td align="center" width="96">
       <a href="https://github.com/rajib-mte/assembly-language-notes">
