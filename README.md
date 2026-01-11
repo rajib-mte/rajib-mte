@@ -94,6 +94,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 <table align="center">
   <tr>
     <td align="center" width="96">
+    <a href="https://github.com/rajib-mte/assembly-language-notes">
       <img
         src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000"
         width="48"
@@ -101,6 +102,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         alt="https://github.com/rajib-mte/assembly-language-notes"
       />
       <br />Assembly
+      </a>
     </td>
     <td align="center" width="96">
       <img
