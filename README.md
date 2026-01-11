@@ -297,69 +297,83 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       <br />Postman
     </td>
     <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=postgres"
-        alt="postgres"
-        width="48"
-        height="48"
-      />
-      <br />Postgres
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
     </td>
     <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=prisma"
-        width="48"
-        height="48"
-        alt="prisma"
-      />
-      <br />Prisma
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
     </td>
     <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=redis"
-        width="48"
-        height="48"
-        alt="redis"
-      />
-      <br />Redis
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
     </td>
     <td align="center" width="96">
-      <img
-        src="https://skillicons.dev/icons?i=tailwind"
-        width="48"
-        height="48"
-        alt="tailwind"
-      />
-      <br />Tailwind
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
     </td>
     <td align="center" width="96">
-      <img
-        src="https://i.imgur.com/4TLI18u.png"
-        width="48"
-        height="48"
-        alt="Figma"
-      />
-      <br />Shadcn
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
     </td>
     <td align="center" width="96">
-      <img
-        src="https://i.imgur.com/wWCtfWA.png"
-        width="54"
-        height="48"
-        alt="materialui"
-      />
-      <br />Zod
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
     </td>
     <td align="center" width="96">
-      <img
-        src="https://i.ibb.co.com/QJds110/icon14.png"
-        width="48"
-        height="48"
-        alt="jwt"
-      />
-      <br />JWT
+      <a href="https://github.com/rajib-mte/assembly-language-notes">
+        <img
+          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
+      <br />Learning
     </td>
-  </tr>
+    
 </table>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
