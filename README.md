@@ -285,10 +285,10 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     <td align="center" width="96">
       <a href="https://github.com/rajib-mte/assembly-language-notes">
         <img
-          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
+          src="https://skillicons.dev/icons?i=arduino"
           width="48"
           height="48"
-          alt="Learning"
+          alt="Arduino"
         />
       </a>
       <br />Learning
