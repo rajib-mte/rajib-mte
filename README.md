@@ -95,12 +95,12 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
   <tr>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000"
         width="48"
         height="48"
-        alt="javascript"
+        alt="assembly"
       />
-      <br />JavaScript
+      <br />Assembly
     </td>
     <td align="center" width="96">
       <img
@@ -109,7 +109,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />C
     </td>
     <td align="center" width="96">
       <img
@@ -118,7 +118,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />C++
     </td>
     <td align="center" width="96">
       <img
@@ -127,7 +127,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />Python
     </td>
     <td align="center" width="96">
       <img
@@ -136,7 +136,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />Dart
     </td>
     <td align="center" width="96">
       <img
@@ -145,7 +145,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />blank
     </td>
     <td align="center" width="96">
       <img
@@ -154,7 +154,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />blank
     </td>
     <td align="center" width="96">
       <img
@@ -163,7 +163,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />blank
     </td>
     <td align="center" width="96">
       <img
@@ -172,16 +172,16 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />blank
     </td>
     <td align="center" width="96">
       <img
-        src="https://skillicons.dev/icons?i=js"
+        src="https://skillicons.dev/icons?i=i"
         width="48"
         height="48"
         alt="javascript"
       />
-      <br />JavaScript
+      <br />blank
     </td>
   </tr>
   <tr>
