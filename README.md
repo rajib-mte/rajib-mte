@@ -291,7 +291,18 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
           alt="Arduino"
         />
       </a>
-      <br />Learning
+      <br />Arduino
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/stm32-baremetal-hall-notes">
+        <img
+          src="https://scontent.fdac207-1.fna.fbcdn.net/v/t39.30808-6/348433596_1679065595861443_1898025895954445312_n.png?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=JrPPfMB0Dz8Q7kNvwElu6Cd&_nc_oc=AdmAdVxgGxYlM7XwAexMzUE81jlW8onSTG7yugcaZqTVfO4cVJOouf-GhWtp0G07dJc&_nc_zt=23&_nc_ht=scontent.fdac207-1.fna&_nc_gid=VUwm_zRQtqhl8QbXmnjfcQ&oh=00_AfqC0ej1s5ROhd5Ma-9KOkOqEnUEIDULuxAqBSYZi9boJw&oe=6969A4D0"
+          width="48"
+          height="48"
+          alt="STM32"
+        />
+      </a>
+      <br />STM32
     </td>
     <td align="center" width="96">
       <a href="https://github.com/rajib-mte/assembly-language-notes">
@@ -299,10 +310,10 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
           src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
           width="48"
           height="48"
-          alt="Learning"
+          alt="ESP32"
         />
       </a>
-      <br />Learning
+      <br />ESP32
     </td>
     <td align="center" width="96">
       <a href="https://github.com/rajib-mte/assembly-language-notes">
@@ -310,21 +321,10 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
           src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
           width="48"
           height="48"
-          alt="Learning"
+          alt="ESP8266"
         />
       </a>
-      <br />Learning
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/rajib-mte/assembly-language-notes">
-        <img
-          src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
-          width="48"
-          height="48"
-          alt="Learning"
-        />
-      </a>
-      <br />Learning
+      <br />EPS8266
     </td>
     <td align="center" width="96">
       <a href="https://github.com/rajib-mte/assembly-language-notes">
