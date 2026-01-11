@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/19152494/128324719-b9bda13d-92dd-49f5-b866-8dd04b3f9d76.gif" alt="Animated Pinout" width="500" height="300">
+  <img src="https://user-images.githubusercontent.com/19152494/128324719-b9bda13d-92dd-49f5-b866-8dd04b3f9d76.gif" alt="Animated Pinout" width="800" height="300">
 </p>
 
 <p align="center">
