@@ -388,6 +388,20 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     
 </table>
 
+<div align="center">
+
+<h2 align="center">Profile Statistics</h2>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedfahad04&theme=midnight_purple)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedfahad04&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedfahad04&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedfahad04&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedfahad04&theme=midnight_purple&utcOffset=8)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedfahad04&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedfahad04" /> </p>
+</div>
+
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- <td>
