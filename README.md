@@ -395,6 +395,9 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 <div align="center">
 
 <h2 align="center">Profile Statistics</h2>
+<div align="center" border="2px" width="1000px">
+<img src="https://nirzak-streak-stats.vercel.app?user=rajib-mte&theme=gotham&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajib-mte&theme=midnight_purple)
 
@@ -421,10 +424,6 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
     </td>
   </tr>
 </table> -->
-
-<div align="center" border="2px" width="1000px">
-<img src="https://nirzak-streak-stats.vercel.app?user=rajib-mte&theme=gotham&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 <!-- ## 🧰 Tools & Technologies
 
