@@ -422,7 +422,9 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
   </tr>
 </table> -->
 
+<div align="center" border=2px>
 <img src="https://nirzak-streak-stats.vercel.app?user=rajib-mte&theme=gotham&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 <!-- ## 🧰 Tools & Technologies
 
