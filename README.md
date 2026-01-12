@@ -408,6 +408,8 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
+    </td>
+    <td>
       <img
         src="https://nirzak-streak-stats.vercel.app?user=rajib-mte&theme=gotham&hide_border=true"
         alt="GitHub Streak"
