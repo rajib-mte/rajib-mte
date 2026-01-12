@@ -1,4 +1,4 @@
-<!-- [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=rajib-mte&show_icons=true&theme=algolia&count_private=true" alt="Rajib GitHub Stats" />](https://github.com/rajib-mte) -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=rajib-mte&label=Profile%20views&color=0e75b6&style=flat" alt="rajib-mte" /> </p>
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/rajib-mte/)
 [![Instagram Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=instagram&logoColor=f5f7fe)]()
@@ -403,17 +403,10 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajib-mte&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajib-mte&theme=midnight_purple&utcOffset=8)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rajib-mte&label=Profile%20views&color=0e75b6&style=flat" alt="rajib-mte" /> </p>
 </div>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <!-- <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=rajib-mte&show_icons=true&theme=gotham&hide_border=true&rank_icon=github"
-        alt="GitHub Stats"
-      />
-    </td> -->
     <td>
       <img
         src="https://nirzak-streak-stats.vercel.app?user=rajib-mte&theme=gotham&hide_border=true"
