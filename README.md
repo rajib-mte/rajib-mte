@@ -413,7 +413,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         alt="GitHub Stats"
       />
     </td> -->
-    <td width="300px">
+    <td width="100px">
       <img
         src="https://nirzak-streak-stats.vercel.app?user=rajib-mte&theme=gotham&hide_border=true"
         alt="GitHub Streak"
