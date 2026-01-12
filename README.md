@@ -395,7 +395,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 <div align="center">
 
 <h2 align="center">Profile Statistics</h2>
-<div align="center" border="2px" width="1000px">
+<div align="center" border="2px" width="1500px">
 <img src="https://nirzak-streak-stats.vercel.app?user=rajib-mte&theme=gotham&hide_border=true" alt="GitHub Streak"/>
 </div>
 
