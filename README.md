@@ -407,7 +407,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
+    <td>hi
     </td>
     <td>
       <img
