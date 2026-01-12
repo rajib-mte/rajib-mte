@@ -397,6 +397,13 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajib-mte&theme=midnight_purple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajib-mte&theme=midnight_purple)
 
+<!-- <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=rajib-mte&show_icons=true&theme=gotham&hide_border=true&rank_icon=github"
+        alt="GitHub Stats"
+      />
+    </td> -->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajib-mte&theme=midnight_purple&utcOffset=8)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rajib-mte&label=Profile%20views&color=0e75b6&style=flat" alt="rajib-mte" /> </p>
