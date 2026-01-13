@@ -155,12 +155,14 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       <br />Python
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/dart-programming-notes.git">
       <img
         src="https://skillicons.dev/icons?i=dart"
         width="48"
         height="48"
         alt="javascript"
       />
+      </a>
       <br />Dart
     </td>
     <td align="center" width="96">
