@@ -124,7 +124,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       <br />Assembly
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/rajib-mte/assembly-language-notes">
+      <a href="https://github.com/rajib-mte/c-programming-notes.git">
         <img
           src="https://skillicons.dev/icons?i=c"
           width="48"
