@@ -118,7 +118,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
         src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000"
         width="48"
         height="48"
-        alt="https://github.com/rajib-mte/assembly-language-notes"
+        alt="assembly-language"
       />
       </a>
       <br />Assembly
@@ -129,18 +129,20 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
           src="https://skillicons.dev/icons?i=c"
           width="48"
           height="48"
-          alt="javascript"
+          alt="c-language"
         />
       </a>
       <br />C
     </td>
     <td align="center" width="96">
+      <a href="https://github.com/rajib-mte/cpp-programming-notes.git">
       <img
         src="https://skillicons.dev/icons?i=cpp"
         width="48"
         height="48"
         alt="cpp"
       />
+      </a>
       <br />C++
     </td>
     <td align="center" width="96">
