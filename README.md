@@ -93,8 +93,8 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ## Notable Projects
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F586518564462599%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-- <a href="">Recon Robot</a>
+- **Recon Robot** <a href="">Clink for watch</a>
+
 <!-- - 🔥 **GSM-Based Firefighter Robot** – Combines remote control, gas detection & firefighting features.
 - 🧵 **Fab Tune** – An e-textile wearable for mobile control using ESP32 touch & Bluetooth.
 - 🌿 **IoT Hydroponics System** – Automated nutrient delivery and environment monitoring.
