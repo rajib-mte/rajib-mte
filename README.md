@@ -93,7 +93,10 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ## Notable Projects
 
-- **Recon Robot** <a href="https://www.facebook.com/reel/586518564462599">Clink for watch</a>
+- **AI + Python – Eyeblink Counter Project** <a href="https://www.facebook.com/share/v/1C9oqPq4aK/">Clink for watching</a>
+- **Recon Robot** <a href="https://www.facebook.com/reel/696366776111984">Clink for watching</a>
+- **GSM-Based Irrigation Pump Controller** <a href="https://www.facebook.com/reel/668376859410926/?s=single_unit">Clink for watching</a>
+- **Flashing LED Cricket Stumps** <a href="https://www.facebook.com/share/p/1CzR9eZkt1/">Clink for watching</a>
 
 <!-- - 🔥 **GSM-Based Firefighter Robot** – Combines remote control, gas detection & firefighting features.
 - 🧵 **Fab Tune** – An e-textile wearable for mobile control using ESP32 touch & Bluetooth.
