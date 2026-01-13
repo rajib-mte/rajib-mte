@@ -93,7 +93,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ## Notable Projects
 
-- **Recon Robot** <a href="">Clink for watch</a>
+- **Recon Robot** <a href="https://www.facebook.com/reel/586518564462599">Clink for watch</a>
 
 <!-- - 🔥 **GSM-Based Firefighter Robot** – Combines remote control, gas detection & firefighting features.
 - 🧵 **Fab Tune** – An e-textile wearable for mobile control using ESP32 touch & Bluetooth.
