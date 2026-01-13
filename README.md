@@ -97,6 +97,8 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 - **Recon Robot:** Watching in<a href="https://www.facebook.com/reel/696366776111984">Facebook</a> Or <a href="https://www.youtube.com/watch?v=8V01D7yX1Yo">YouTube</a>
 - **GSM-Based Irrigation Pump Controller** Watching in<a href="https://www.facebook.com/reel/668376859410926/?s=single_unit">Facebook</a> Or <a href="https://www.youtube.com/watch?v=8V01D7yX1Yo">YouTube</a>
 - **Flashing LED Cricket Stumps** Watching in<a href="https://www.facebook.com/share/p/1CzR9eZkt1/">Facebook</a> Or <a href="https://www.youtube.com/watch?v=8V01D7yX1Yo">YouTube</a>
+- **My Smart Home** IOT based home appliance control <a href="https://github.com/rajib-mte/my-smart-home">GitHub Link</a> and <a href="https://rajib-mte.github.io/my-smart-home/">Deploy Link</a>
+- **DC UPS** designed for routers, modems, and small electronics that require stable 5V or 9V output <a href="https://github.com/rajib-mte/Router-UPS-9V-5V-Buck-Converter-Altium.git">GitHub Link</a> and <a href="https://www.linkedin.com/posts/rajib-mte_compact-dc-ups-for-routers-iot-small-activity-7375111941406531584-t41e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF72viEBlZvVS4-ewjkA5Z1NS5AUtyQ81y8">Linkedin</a>
 
 <!-- - 🔥 **GSM-Based Firefighter Robot** – Combines remote control, gas detection & firefighting features.
 - 🧵 **Fab Tune** – An e-textile wearable for mobile control using ESP32 touch & Bluetooth.
