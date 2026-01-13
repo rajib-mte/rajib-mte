@@ -29,15 +29,15 @@
 📍 Based in Dhaka, Bangladesh
 ...
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate embedded systems engineer and robotics developer with hands-on experience in:
 
-- 🌟 **Firmware Development** (C, Embedded C, C++, Python, Dart)
-- ⚙️ **Microcontroller Programming** (STM32, ESP32, Arduino, AVR)
-- 🧠 **IoT & Smart Systems** ()
-- 📐 **PCB Design** (Altium Designer, EasyEDA, Proteus Simulation)
-- 🔥 **Robotics Projects** (Line follower, gas detector & fire-fighting bots)
+- **Firmware Development** (C, Embedded C, C++, Python, Dart)
+- **Microcontroller Programming** (STM32, ESP32, Arduino, AVR)
+- **IoT & Smart Systems** ()
+- **PCB Design** (Altium Designer, EasyEDA, Proteus Simulation)
+- **Robotics Projects** (Line follower, gas detector & fire-fighting bots)
 
 With a strong background in **circuit design**, **PCB layout**, and **low-level firmware**, I aim to bridge the gap between **hardware** and **software** to build smart, efficient, and innovative systems.
 
