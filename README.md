@@ -93,7 +93,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 
 ## Notable Projects
 
-- **AI + Python – Eyeblink Counter Project** Watching in <a href="https://www.facebook.com/share/v/1C9oqPq4aK/">Facebook</a> Or <a href="https://www.youtube.com/watch?v=8V01D7yX1Yo">YouTube</a>
+- **AI + Python – Eyeblink Counter Project: ** Watching in <a href="https://www.facebook.com/share/v/1C9oqPq4aK/">Facebook</a> Or <a href="https://www.youtube.com/watch?v=8V01D7yX1Yo">YouTube</a>
 - **Recon Robot** <a href="https://www.facebook.com/reel/696366776111984">Clink for watching</a>
 - **GSM-Based Irrigation Pump Controller** <a href="https://www.facebook.com/reel/668376859410926/?s=single_unit">Clink for watching</a>
 - **Flashing LED Cricket Stumps** <a href="https://www.facebook.com/share/p/1CzR9eZkt1/">Clink for watching</a>
