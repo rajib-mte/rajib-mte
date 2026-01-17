@@ -37,7 +37,7 @@ I'm a passionate embedded systems engineer and robotics developer with hands-on 
 - **Microcontroller Programming** (STM32, ESP32, Arduino, AVR)
 - **IoT & Smart Systems** ()
 - **PCB Design** (Altium Designer, EasyEDA, Proteus Simulation)
-- **Robotics Projects** (Line follower, gas detector & fire-fighting bots)
+- **Robotics Projects** ()
 
 With a strong background in **circuit design**, **PCB layout**, and **low-level firmware**, I aim to bridge the gap between **hardware** and **software** to build smart, efficient, and innovative systems.
 
