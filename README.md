@@ -100,6 +100,9 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 - **My Smart Home** IOT based home appliance control <a href="https://github.com/rajib-mte/my-smart-home">GitHub Link</a> and <a href="https://rajib-mte.github.io/my-smart-home/">Deploy Link</a>
 - **DC UPS** designed for routers, modems, and small electronics that require stable 5V or 9V output <a href="https://github.com/rajib-mte/Router-UPS-9V-5V-Buck-Converter-Altium.git">GitHub Link</a> and <a href="https://www.linkedin.com/posts/rajib-mte_compact-dc-ups-for-routers-iot-small-activity-7375111941406531584-t41e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF72viEBlZvVS4-ewjkA5Z1NS5AUtyQ81y8">Linkedin</a>
 
+## Research & Publication
+
+- **Fab-Tune: A regulator of the Basic Features of Cell Phone** <a href=""> Link </a>
 <!-- - 🔥 **GSM-Based Firefighter Robot** – Combines remote control, gas detection & firefighting features.
 - 🧵 **Fab Tune** – An e-textile wearable for mobile control using ESP32 touch & Bluetooth.
 - 🌿 **IoT Hydroponics System** – Automated nutrient delivery and environment monitoring.
