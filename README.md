@@ -180,7 +180,7 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
           alt="Learning"
         />
       </a>
-      <br />Learning
+      <br />Java Script
     </td>
     <td align="center" width="96">
       <img
