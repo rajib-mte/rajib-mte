@@ -103,6 +103,9 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
 ## Research & Publication
 
 - **Fab-Tune: A regulator of the Basic Features of Cell Phone** <a href="https://www.researchgate.net/publication/397517102_Fab-Tune_A_regulator_of_the_Basic_Features_of_Cell_Phone"> Link </a>
+- **Enhancing ECG Heart Rate Measurement Accuracy through Advanced Noise Cancellation Techniques** <a href="https://www.researchgate.net/publication/397517102_Fab-Tune_A_regulator_of_the_Basic_Features_of_Cell_Phone"> Link </a>
+-
+
 <!-- - 🔥 **GSM-Based Firefighter Robot** – Combines remote control, gas detection & firefighting features.
 - 🧵 **Fab Tune** – An e-textile wearable for mobile control using ESP32 touch & Bluetooth.
 - 🌿 **IoT Hydroponics System** – Automated nutrient delivery and environment monitoring.
