@@ -172,12 +172,14 @@ With a strong background in **circuit design**, **PCB layout**, and **low-level 
       <br />Dart
     </td>
     <td align="center" width="96">
-      <img
-        src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000"
-        width="48"
-        height="48"
-        alt="Learning"
-      />
+      <a href="https://github.com/rajib-mte/JavaScript-programming-notes.git">
+        <img
+          src="https://skillicons.dev/icons?i=js"
+          width="48"
+          height="48"
+          alt="Learning"
+        />
+      </a>
       <br />Learning
     </td>
     <td align="center" width="96">
